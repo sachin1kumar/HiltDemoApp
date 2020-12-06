@@ -1,3 +1,3 @@
-package com.doctor.hiltdemoapp
+package com.doctor.hiltdemoapp.data
 
 data class CustomObject(val dependencyName: String)

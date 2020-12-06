@@ -1,5 +1,6 @@
-package com.doctor.hiltdemoapp
+package com.doctor.hiltdemoapp.di
 
+import com.doctor.hiltdemoapp.data.CustomObject
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
